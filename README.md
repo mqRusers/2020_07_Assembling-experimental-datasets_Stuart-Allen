@@ -4,6 +4,8 @@
 
 For a researcher, data is a valuable resource - especially if you have gone to the time and expense of collecting it yourself. Assembling datasets from your experiments is a crucial step towards answering your research questions. A well-constructed dataset makes analysis easier and increases the future utility of your data. This workshop will cover the nuts and bolts of assembling a dataset - a topic relevant to students and experienced researchers alike. Using relevant R functions and packages we will look at how to avoid common pitfalls, and how to implement assertive data validation to keep your data shipshape.
 
+If you would like to follow along with the workshop's code please download this repository by clicking the green `code` button above and select `download zip`. Unzip this file and dbl-click on the `data_workshop_code.Rproj` file to load it in RStudio. You will also need to download both the `assertr` and `dataspice` packages, see below. 
+
 ## Code
 
 #### `R/assertr_demo.R`
