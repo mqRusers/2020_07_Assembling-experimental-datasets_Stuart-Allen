@@ -6,7 +6,7 @@ For a researcher, data is a valuable resource - especially if you have gone to t
 
 If you would like to follow along with the workshop's code please download this repository by clicking the green `code` button above and select `download zip`. Unzip this file and dbl-click on the `data_workshop_code.Rproj` file to load it in RStudio. You will also need to download both the `assertr` and `dataspice` packages, see below. 
 
-A recording of this workshop has been taken and can be found [here](https://macquarie.zoom.us/rec/share/xt5NDKDR13JJZKv1znHAQvEiD7rIX6a823Me-aZZnxvL924OLdonFhJTW60UAal1)
+A recording of this workshop has been taken and can be found [here](https://macquarie.zoom.us/rec/share/xt5NDKDR13JJZKv1znHAQvEiD7rIX6a823Me-aZZnxvL924OLdonFhJTW60UAal1).
 
 ## Code
 
